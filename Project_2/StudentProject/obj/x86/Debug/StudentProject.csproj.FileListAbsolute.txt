@@ -1,0 +1,10 @@
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\bin\Debug\StudentProject.exe
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\bin\Debug\StudentProject.pdb
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.Form1.resources
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.Properties.Resources.resources
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.exe
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.pdb
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.CSMSSMDI.resources
+c:\users\om\documents\visual studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.LogIn.resources
+C:\Users\om\Documents\Visual Studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.csprojResolveAssemblyReference.cache
+C:\Users\om\Documents\Visual Studio 2010\Projects\StudentProject\StudentProject\obj\x86\Debug\StudentProject.csproj.GenerateResource.Cache
