@@ -1,0 +1,10 @@
+C:\Users\JC\source\repos\SQLProject2\Project2\bin\Debug\Project2.dacpac
+C:\Users\JC\source\repos\SQLProject2\Project2\bin\Debug\Project2.dll
+C:\Users\JC\source\repos\SQLProject2\Project2\bin\Debug\Project2.pdb
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\Project2.sqlprojAssemblyReference.cache
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\Model.xml
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\refactor.xml
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\postdeploy.sql
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\predeploy.sql
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\Project2.dll
+C:\Users\JC\source\repos\SQLProject2\Project2\obj\Debug\Project2.pdb

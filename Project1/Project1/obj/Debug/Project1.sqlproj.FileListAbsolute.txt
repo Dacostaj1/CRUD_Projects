@@ -1,0 +1,10 @@
+C:\Users\JC\source\repos\Project1\Project1\bin\Debug\Project1.dacpac
+C:\Users\JC\source\repos\Project1\Project1\bin\Debug\Project1.dll
+C:\Users\JC\source\repos\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\Project1.sqlprojAssemblyReference.cache
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\Model.xml
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\refactor.xml
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\postdeploy.sql
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\predeploy.sql
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\Project1.dll
+C:\Users\JC\source\repos\Project1\Project1\obj\Debug\Project1.pdb
